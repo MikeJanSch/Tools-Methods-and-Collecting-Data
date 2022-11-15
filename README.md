@@ -15,10 +15,14 @@ RQ2: How the growth of reading activity and the national composition of the audi
 
 RQ3: Can the Ukraine war topic on Telegram attract more audiences?
 
-RQ4: Distinguishing propagansistic content can be demanding in terms of numerous indicators needed for a broader picture. still - how indicators of Russian speaking channels of Telegram are linked to war topic? What connotation - negative, positive, neutral - is used for propagandistic content creation
-?
-Explanation: for RQ1 - the Telegram statistics will be used for counting the proportion
-             for RQ2 - the Telegram statistics will be used to count the growth and the national composition and define the correlation
-             for RQ3 - the Telegram statistics will be used to count all hastags etc containing indication, counting all war specified audiences and correlating them with the pre war Telegram activity on the same channels. 
+RQ4: Distinguishing propagansistic content can be demanding in terms of numerous indicators needed for a broader picture. still - how indicators of Russian speaking channels of Telegram are linked to war topic? What connotation - negative, positive, neutral - is used for propagandistic content creation?
+
+Explanation: 
+
+for RQ1 - the Telegram statistics will be used for counting the proportion
+
+for RQ2 - the Telegram statistics will be used to count the growth and the national composition and define the correlation
+             
+for RQ3 - the Telegram statistics will be used to count all hastags etc containing indication, counting all war specified audiences and correlating them with the pre war Telegram activity on the same channels. 
              
  
