@@ -25,4 +25,18 @@ for RQ2 - the Telegram statistics will be used to count the growth and the natio
              
 for RQ3 - the Telegram statistics will be used to count all hastags etc containing indication, counting all war specified audiences and correlating them with the pre war Telegram activity on the same channels. 
              
- 
+for RQ4 - the Telegram statistics will be used to count word/hashtags/indicators. Still the indicators should be invented by researcher and/or taken from cited research and scientific papers of corresponding topics.
+
+The Tools and Methods for Research: 
+
+Text Classification:  
+
+Sentiment Analysis - classification based on opinion polarity (positive / negative / neutral)
+
+Word Frequency Analysis - to measures the most frequently occurring words 
+
+Concordancing - Key words in text searching
+
+Personal Names' Recognition - Collocation: determining which words commonly appear near each other
+
+
