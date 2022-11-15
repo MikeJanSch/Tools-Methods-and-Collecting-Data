@@ -7,7 +7,7 @@ Theoretical part: scientific articles on the subject
 
 Interpretive: analyzing the telegram channels using propaganda techniques - yet too broad
 
-RQ: Hypothesis: The audience of Russian-speaking political channels on Telegram has grown notably after the war in Ukraine started (2022-02-24). Is there a case that war     provoke propaganda growth? 
+Hypothesis: The audience of Russian-speaking political channels on Telegram has grown notably after the war in Ukraine started (2022-02-24). Is there a case that war     provoke propaganda growth? 
 
 RQ1: How the proportion of the non Russian speaking audiences of Telegram to native users of the application changed since the war in Ukraine began? 
 
