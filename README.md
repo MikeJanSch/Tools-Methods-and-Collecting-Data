@@ -27,6 +27,16 @@ for RQ3 - the Telegram statistics will be used to count all hastags etc containi
              
 for RQ4 - the Telegram statistics will be used to count word/hashtags/indicators. Still the indicators should be invented by researcher and/or taken from cited research and scientific papers of corresponding topics.
 
+Resources:
+
+https://github.com/TechRahul20/TelegramScraper.git
+
+https://github.com/jordanwildon/Telepathy.git
+
+https://tgstat.ru/en
+
+https://digitalhumanities.fas.harvard.edu/resources/choosing-digital-methods-and-tools/
+
 The Tools and Methods for Research: 
 
 Text Classification:  
