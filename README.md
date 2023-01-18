@@ -1,21 +1,22 @@
 # MEDIA PROPAGANDA TELEGRAM
-Topic Title: Media Propaganda
 
-# Context for the topic - there's no current research yet
+<h3>Topic Title: Media Propaganda Telegram 3</h3>
 
-# Theoretical part: scientific articles on the subject
+<h4>Context for the topic:4</h4> there's no current research yet
 
-# Interpretive part: analyzing the telegram channels using propaganda techniques - yet too broad
+<h4>Theoretical part: 4</h4> scientific articles on the subject
 
-# Hypothesis: The audience of Russian-speaking political channels on Telegram has grown notably after the war in Ukraine started (2022-02-24). Therefore I assume that the level of polarisation in social media has also increased critically. 
+<h4>Interpretive part: 4</h4> analyzing the telegram channels using propaganda techniques - yet too broad
 
-# RQ1: How the proportion of the non Russian speaking audiences of Telegram to native users of the application changed since the war in Ukraine began? 
+<h4>Hypothesis: 4</h4> The audience of Russian-speaking political channels on Telegram has grown notably after the war in Ukraine started (2022-02-24). Therefore I assume that the level of polarisation in social media has also increased critically. 
 
-# RQ2: How the growth of reading activity and the national composition of the audience in Russian speaking segment of Telegram correlate?
+<h4>RQ1: 4</h4> How the proportion of the non Russian speaking audiences of Telegram to native users of the application changed since the war in Ukraine began? 
 
-# RQ3: Can the Ukraine war topic on Telegram attract more audiences? What type of audiences this topic attract?
+<h4>RQ2: 4</h4> How the growth of reading activity and the national composition of the audience in Russian speaking segment of Telegram correlate?
 
-# RQ4: Distinguishing propagansistic content can be demanding in terms of numerous indicators needed for a broader picture. still - how indicators of Russian speaking channels of Telegram are linked to war topic? What connotation - negative, positive, neutral - is used for propagandistic content creation?
+<h4>RQ3: 4</h4> Can the Ukraine war topic on Telegram attract more audiences? What type of audiences this topic attract?
+
+<h4>RQ4: 4</h4>  Distinguishing propagansistic content can be demanding in terms of numerous indicators needed for a broader picture. still - how indicators of Russian speaking channels of Telegram are linked to war topic? What connotation - negative, positive, neutral - is used for propagandistic content creation?
 
 # Explanation: 
 
