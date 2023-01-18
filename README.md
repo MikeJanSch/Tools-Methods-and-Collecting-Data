@@ -1,6 +1,6 @@
 # MEDIA PROPAGANDA TELEGRAM
 
-<h3>Topic Title: Media Propaganda Telegram </h3>
+<h2>Topic Title: Media Propaganda Telegram </h2>
 
 <h4>Context for the topic: </h4> there's no current research yet
 
@@ -18,7 +18,7 @@
 
 <h4>RQ4: </h4>  Distinguishing propagansistic content can be demanding in terms of numerous indicators needed for a broader picture. still - how indicators of Russian speaking channels of Telegram are linked to war topic? What connotation - negative, positive, neutral - is used for propagandistic content creation?
 
-# Explanation: 
+### Explanation: 
 
 for RQ1 - the Telegram statistics will be used for counting the proportion
 
@@ -28,7 +28,7 @@ for RQ3 - the Telegram statistics will be used to count all hastags etc containi
              
 for RQ4 - the Telegram statistics will be used to count word/hashtags/indicators. Still the indicators should be invented by researcher and/or taken from cited research and scientific papers of corresponding topics.
 
-# Resources:
+### Resources:
 
 https://github.com/TechRahul20/TelegramScraper.git
 
@@ -38,9 +38,9 @@ https://tgstat.ru/en
 
 https://digitalhumanities.fas.harvard.edu/resources/choosing-digital-methods-and-tools/
 
-# The Tools and Methods for Research: 
+### The Tools and Methods for Research: 
 
-# Text Classification:  
+#### Text Classification:  
 
 Sentiment Analysis - classification based on opinion polarity (positive / negative / neutral)
 
@@ -50,7 +50,7 @@ Concordancing - Key words in text searching
 
 Personal Names' Recognition - Collocation: determining which words commonly appear near each other
 
-# License:
+#### License:
 Open Access Sources, Copyright Applications to the collaborating researchers
 
 
