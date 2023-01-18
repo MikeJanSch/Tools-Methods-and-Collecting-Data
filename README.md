@@ -1,4 +1,4 @@
-# Tools-MethodsDH
+# MEDIA PROPAGANDA TELEGRAM
 Topic Title: Media Propaganda
 
 Context for the topic - there's no current research yet
@@ -7,7 +7,7 @@ Theoretical part: scientific articles on the subject
 
 Interpretive part: analyzing the telegram channels using propaganda techniques - yet too broad
 
-Hypothesis: The audience of Russian-speaking political channels on Telegram has grown notably after the war in Ukraine started (2022-02-24). Is there a case that war     provoke propaganda growth? 
+Hypothesis: The audience of Russian-speaking political channels on Telegram has grown notably after the war in Ukraine started (2022-02-24). Therefore I assume that the level of polarisation in social media has also increased critically. 
 
 RQ1: How the proportion of the non Russian speaking audiences of Telegram to native users of the application changed since the war in Ukraine began? 
 
